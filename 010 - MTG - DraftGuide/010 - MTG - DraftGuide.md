@@ -67,7 +67,8 @@ Nicht Länder Karten welche Mana generieren
 
 - Draw 2 - 3
 Karten durch welche du mehr Karten ziehst!
-## 7 
+
+## 7 - Danksagung
 
 ## 8 - Rückseite 
 

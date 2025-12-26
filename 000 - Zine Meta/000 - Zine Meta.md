@@ -6,6 +6,22 @@ Im Zuge einer Zine Bastelaction initiiert durch Chilli mitte Mai 2025 hat mein D
 
 # Motivation
 
-# Inhalt
+# Struktur
+
+## 1 - Cover 
+
+## 2 - Seite 
+
+## 3 - Und
+
+## 4 - Hier
+
+## 5 - Folgt 
+
+## 6 - Der
+
+## 7 - Inhalt
+
+## 8 - Rückseite
 
 # Epilog
